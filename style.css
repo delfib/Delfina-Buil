@@ -371,13 +371,20 @@ h2 {
         padding: 20px 30px;
     }
     
-    .small-text,
-    h1 {
-        font-size: 32px;
-    }
-
     .description {
         font-size: 18px;
+    }
+
+    .small-text {
+        font-size: 32px;
+        line-height: 1.2;   /* tighter line spacing */
+        margin-bottom: 4px; /* reduce gap before "I'm Delfi" */
+    }
+
+    h1 {
+        font-size: 32px;
+        line-height: 1.2;
+        margin-top: 0;
     }
 }
 
