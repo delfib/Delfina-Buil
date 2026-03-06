@@ -43,7 +43,7 @@ nav {
 
     display: flex;
     align-items: center;
-    gap: 45px; /* space between name and sections */
+    gap: 45px; 
 
     background-color: var(--dark-navy);
     z-index: 1000;
@@ -103,17 +103,17 @@ nav li:hover {
    SECTIONS
 ========================= */
 .section {
-    min-height: 100vh;      /* allows section to grow */
+    min-height: 100vh;   
     display: flex;
-    justify-content: center; /* keeps block horizontally centered */
-    padding: 90px 0px;    /* top spacing instead of vertical centering */
+    justify-content: center;
+    padding: 90px 0px;   
 }
 
 #home {
     display: flex;
-    justify-content: center;   /* horizontal center */
-    align-items: center;       /* vertical center */
-    text-align: center;        /* center text */
+    justify-content: center; 
+    align-items: center;     
+    text-align: center;      
     min-height: 100vh;
 }
 
