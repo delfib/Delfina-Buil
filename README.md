@@ -1,2 +1,2 @@
-# Delfina Buil — Portfolio v1
-First version of https://delfib.github.io/Portfolio built with HTML, CSS and JavaScript.
+# Delfina Buil — Portfolio 
+First version of https://delfib.github.io/Delfina-Buil/ built with HTML, CSS and JavaScript.
